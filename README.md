@@ -5,8 +5,6 @@ This sample shows Android Ripple Reveal effect for Lollipop+ devices
   <img src="https://github.com/Mobeyosoft/Android-Ripple-Reveal-Sample/blob/master/ripple_reveal.gif" width="350"/>
 </p>
 
-![Alt Text](https://github.com/Mobeyosoft/Android-Ripple-Reveal-Sample/blob/master/ripple_reveal.gif)
-
 The reveal effect is implemented from :
 * Center
 * Top left
